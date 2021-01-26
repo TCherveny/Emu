@@ -1,0 +1,13 @@
+C:\Users\Mountainside Designs\repos\Liam\Liam\bin\Debug\netcoreapp3.1\Liam.exe
+C:\Users\Mountainside Designs\repos\Liam\Liam\bin\Debug\netcoreapp3.1\Liam.deps.json
+C:\Users\Mountainside Designs\repos\Liam\Liam\bin\Debug\netcoreapp3.1\Liam.runtimeconfig.json
+C:\Users\Mountainside Designs\repos\Liam\Liam\bin\Debug\netcoreapp3.1\Liam.runtimeconfig.dev.json
+C:\Users\Mountainside Designs\repos\Liam\Liam\bin\Debug\netcoreapp3.1\Liam.dll
+C:\Users\Mountainside Designs\repos\Liam\Liam\bin\Debug\netcoreapp3.1\Liam.pdb
+C:\Users\Mountainside Designs\repos\Liam\Liam\obj\Debug\netcoreapp3.1\Liam.csprojAssemblyReference.cache
+C:\Users\Mountainside Designs\repos\Liam\Liam\obj\Debug\netcoreapp3.1\Liam.AssemblyInfoInputs.cache
+C:\Users\Mountainside Designs\repos\Liam\Liam\obj\Debug\netcoreapp3.1\Liam.AssemblyInfo.cs
+C:\Users\Mountainside Designs\repos\Liam\Liam\obj\Debug\netcoreapp3.1\Liam.csproj.CoreCompileInputs.cache
+C:\Users\Mountainside Designs\repos\Liam\Liam\obj\Debug\netcoreapp3.1\Liam.dll
+C:\Users\Mountainside Designs\repos\Liam\Liam\obj\Debug\netcoreapp3.1\Liam.pdb
+C:\Users\Mountainside Designs\repos\Liam\Liam\obj\Debug\netcoreapp3.1\Liam.genruntimeconfig.cache
