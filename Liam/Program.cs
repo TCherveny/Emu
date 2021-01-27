@@ -18,12 +18,12 @@ namespace Liam
 
             char eggWeight1 = '1';
 
-            Console.WriteLine($"One of my emu's is named {emuName}.");
-            Console.WriteLine($"{emuName} is {emuAge} years old.");
-            Console.WriteLine($"{emuName} is a {emuHeight} feet tall.");
-            Console.WriteLine($"{emuName} has claws that are {emuClaw} feet long.");
-            Console.WriteLine($"{emuName} is soft is a {isSoft} statement.");
-            Console.WriteLine($"{emuName} has a girlfriend named Rita.");
+            Console.WriteLine($"One of my emu's is named {emuName}. \n" +
+                $"{emuName} is {emuAge} years old.\n" +
+                $"{emuName} is a {emuHeight} feet tall.\n" +
+                $"{emuName} has claws that are {emuClaw} feet long.\n" +
+                $"{emuName} is soft is a {isSoft} statement.\n" +
+                $"{emuName} has a girlfriend named Rita.");
 
             emuName = "Rita";
 
